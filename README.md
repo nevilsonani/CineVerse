@@ -1,6 +1,6 @@
-# Cineverse
+# CineVerse
 
-Cineverse is a full-stack web application built using the MERN (MongoDB, Express, React, Node.js) stack. It serves as a platform for movie enthusiasts to explore, review, and discuss movies.
+CineVerse is a full-stack web application built using the MERN (MongoDB, Express, React, Node.js) stack. It serves as a platform for movie enthusiasts to explore, review, and discuss movies.
 
 ## Features
 
@@ -33,7 +33,7 @@ Cineverse is a full-stack web application built using the MERN (MongoDB, Express
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/nevilsonani/cineverse.git
+   git clone https://github.com/nevilsonani/CineVerse.git
    ```
 
 2. Navigate to the project directory:
